@@ -1,5 +1,5 @@
 # QCM-Sensor-Alcohol-Dataset Clasificación de Alcoholes (QCM sensor)
-
+## Autor: Yesenia Perez Brito
 ## Descripción
 Pipeline PySpark para clasificar 3 alcoholes usando datos del sensor QCM. Incluye EDA, preprocesamiento, entrenamiento con Cross-Validation y visualizaciones.
 
