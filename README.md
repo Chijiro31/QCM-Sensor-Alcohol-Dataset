@@ -1,15 +1,11 @@
 # QCM-Sensor-Alcohol-Dataset Clasificación de Alcoholes (QCM sensor)
 
 ## Descripción
-Pipeline PySpark para clasificar 5 alcoholes usando datos del sensor QCM (archivo QCM3.csv). Incluye EDA, preprocesamiento, entrenamiento con Cross-Validation y visualizaciones.
+Pipeline PySpark para clasificar 3 alcoholes usando datos del sensor QCM. Incluye EDA, preprocesamiento, entrenamiento con Cross-Validation y visualizaciones.
 
 ## Estructura
-- `data/QCM3.csv` - dataset
+- `data/` - dataset
 - `notebooks/Analisis_QCM.ipynb` - notebook
-- `src/pipeline_evaluacion.py` - script PySpark
-- `models/` - modelos guardados
-- `outputs/figures` - figuras generadas
-- `Informe_Plantilla.md` - plantilla de informe
 
 ## Requisitos
 1. Java (OpenJDK 11+)
