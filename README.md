@@ -6,7 +6,7 @@ Pipeline PySpark para clasificar 3 alcoholes usando datos del sensor QCM. Incluy
 ## Estructura
 - `data/` - dataset
 - `notebooks/Analisis_QCM.ipynb` - notebook
-
+- `introducción a la ciencia d edatos.docx` - office
 ## Requisitos
 1. Java (OpenJDK 11+)
 2. Python 3.8+
